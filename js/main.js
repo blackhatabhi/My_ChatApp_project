@@ -46,12 +46,9 @@ $(function(){
     
   });
   socket.on ('typing',  function(data) {
-
-  chat.html('<p><i>' + data.username + " is typing....." + "</i></p>")
-
- 
-
-    
+    chat.html('<p><i>' + data.username + " is typing....." + "</i></p>")   
+   
+   
   });
- 
+
 });

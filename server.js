@@ -10,7 +10,7 @@ app.use('/css', express.static(__dirname + '/css'));
 app.use('/js', express.static(__dirname + '/js'));
 
 app.get('/', function(req, res){
-  res.sendFile(__dirname + '/index.html');
+  res.sendFile(__dirname + '/index.html')
 });
 
 io.sockets.on('connection', function(socket){

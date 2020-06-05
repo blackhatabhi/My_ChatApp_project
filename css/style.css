@@ -36,18 +36,6 @@ background-image: url("bg.jpg");
   max-height: 200px;
 }
 
-#messageForm{
-border: 1px solid steelblue;
-  color: cadetblue;
-}
-#message{
-  border: 1px solid steelblue;
-    
-  }
-  #send{
-    border: 1px solid steelblue;
-      
-    }
 
 #namesWrapper{
   float: left;
