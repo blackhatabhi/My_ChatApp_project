@@ -1,10 +1,12 @@
 body{
-  background: #ee0404;
+  background: #f1ebeb;
+background-image: url("bg.jpg");
 }
 
-.container{
+.containers{
   width: 700px;
-  margin: 0 auto;
+ margin: auto;
+
 }
 
 #chatWindow{
@@ -25,6 +27,7 @@ body{
   border-radius: 10px;
   background: #f4f4f4;
   padding: 10px;
+  color: darkcyan;
 }
 
 #userWrapper{
@@ -33,9 +36,23 @@ body{
   max-height: 200px;
 }
 
+#messageForm{
+border: 1px solid steelblue;
+  color: cadetblue;
+}
+#message{
+  border: 1px solid steelblue;
+    
+  }
+  #send{
+    border: 1px solid steelblue;
+      
+    }
+
 #namesWrapper{
   float: left;
   margin-left:20px;
+  color: cadetblue;
 }
 
 input{

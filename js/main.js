@@ -40,4 +40,18 @@ $(function(){
   socket.on('new message', function(data){
     chat.append('<strong>'+data.user+'</strong>: '+data.msg+'<br />');
   });
+
+  message.bind('keypress' , () => {
+    socket.emit('typing')
+    
+  });
+  socket.on ('typing',  function(data) {
+
+  chat.html('<p><i>' + data.username + " is typing....." + "</i></p>")
+
+ 
+
+    
+  });
+ 
 });
