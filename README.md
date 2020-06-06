@@ -78,6 +78,6 @@ Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
 <img src="/images/pic4.png">
 
 ## message box view
-<img src="/images/pic3.png">
+<img src="/images/pic3.png" align = "left">
 
 # Ichat is online At <a herf = "https://ichat-cb.herokuapp.com/">https://ichat-cb.herokuapp.com/</a>
