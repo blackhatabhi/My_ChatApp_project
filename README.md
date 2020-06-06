@@ -1,5 +1,8 @@
 # Ichat web-socket chatapp
-In this app you can do real time chatting with other user using socket.io
+In this app you can do real time chatting with other user using socket.io.
+
+<b>It is my coding blocks final project. a big thaks to coding blocks and arnav bhaiya</b>
+
 
 ---
 ## Requirements
