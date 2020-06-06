@@ -48,13 +48,6 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
     $ cd My_ChatApp_project
     $ npm install
 
-## Configure app
-
-Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
-
-- A setting;
-- Another setting;
-- One more setting;
 
 ## Running the project
 
