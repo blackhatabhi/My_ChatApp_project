@@ -70,3 +70,12 @@ Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
 ### It also have typing animation and client online notification too.
 
 <img src="/images/pic2.png">
+
+## Mobile Phone view 
+
+### we cannot take same user name 🤣🤣
+
+<img src="/images/pic4.png">
+
+
+<img src="/images/pic3.png">
