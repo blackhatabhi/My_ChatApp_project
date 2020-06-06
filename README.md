@@ -69,4 +69,4 @@ Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
 
 ### It also have typing animation and client online notification too.
 
-<img src="/images/pic1.png">
+<img src="/images/pic2.png">
