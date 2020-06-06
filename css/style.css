@@ -1,6 +1,7 @@
 body{
   background: #f1ebeb;
 background-image: url("bg.jpg");
+
 }
 
 .containers{
@@ -49,4 +50,12 @@ input{
 
 #error{
   color: red;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
 }
