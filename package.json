@@ -1,9 +1,25 @@
 {
-  "name": "chatIO",
+  "name": "my_chatting_app",
   "version": "0.0.1",
   "private": "true",
   "dependencies": {
     "socket.io": "*",
     "express": "*"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "In this app you can do real time chatting with other user using socket.io.",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackhatabhi/My_ChatApp_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackhatabhi/My_ChatApp_project/issues"
+  },
+  "homepage": "https://github.com/blackhatabhi/My_ChatApp_project#readme"
 }
